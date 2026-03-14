@@ -1,0 +1,5 @@
+# Keycloak UI customization that inherits the default theme
+This is an example of customizing the Keycloak UI while inheriting the default theme.
+
+## Installation of favicon, etc.
+Place the favicon.ico file in `theme/<theme>/common/resources/img`.
