@@ -1,6 +1,8 @@
 {
-  "themes": [{
-      "name" : "lzflywye",
-      "types": [ "login", "account", "admin", "common" ]
-  }]
+  "themes": [
+    {
+      "name": "lzflywye",
+      "types": ["login", "account", "admin", "common"]
+    }
+  ]
 }
